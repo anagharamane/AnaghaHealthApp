@@ -1,0 +1,25 @@
+{
+  "name": "trafficapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bindings": "*",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "express-mail": "*",
+    "express-session": "^1.7.6",
+    "jade": "~1.11.0",
+    "mongoose": "*",
+    "morgan": "~1.9.0",
+    "plotly": "*",
+    "sendmail": "^1.2.0",
+    "serve-favicon": "~2.4.5",
+    "sleep": "*",
+    "gmail-send": "*"
+  }
+}
